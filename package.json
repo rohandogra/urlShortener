@@ -1,0 +1,26 @@
+{
+  "name": "url_shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-useragent": "^1.0.15",
+    "mongoose": "^5.9.26",
+    "shorthash": "0.0.2",
+    "validator": "^13.1.1",
+    "otp-generator": "^1.1.0",
+    "twilio": "^3.48.1",
+    "jsonwebtoken": "^8.5.1",
+    "dotenv": "^8.2.0",
+    "@hapi/joi": "^17.1.1",
+    "bcryptjs": "^2.4.3",
+    "concurrently": "^5.2.0"
+  }
+}
